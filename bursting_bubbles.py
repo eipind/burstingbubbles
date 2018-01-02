@@ -5,13 +5,13 @@ if __name__ == "__main__":
     from datacollection.reddit.reddit_execution import RedditExecution
     from nlp.nlp_core import NLPCore
 
-    # inputer = Inputer()
-    # bb_in_dict = inputer.get_query()
+    inputer = Inputer()
+    bb_in_dict = inputer.get_query()
 
-    # query = RedditQuery(bb_in_dict["Query:"], bb_in_dict["Subreddit:"], bb_in_dict["Sorted by:"], bb_in_dict["Links from:"], bb_in_dict["Limit:"])
+    query = RedditQuery(bb_in_dict["Query:"], bb_in_dict["Subreddit:"], bb_in_dict["Sorted by:"], bb_in_dict["Links from:"], bb_in_dict["Limit:"])
     redditexec = RedditExecution()
-    # redditexec.run(query)
-    redditexec.rruunn()
+    redditexec.run(query)
+    # redditexec.rruunn()
 
     nlpcore = NLPCore()
     nlpcore.run()
