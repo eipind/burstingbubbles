@@ -1,0 +1,7 @@
+# BurstingBubbles
+
+BurstingBubbles is based around the abundance of information on social media nowadays (only Reddit for now). Trying to accurately gauge what people are saying about a certain event in the world to a reasonable degree would be time exhausting, especially if it is an event that affects the majority of the population; this is more accurate when applied to users of social media. Users on social media (most of the time) are unknowingly subjected to filter bubbles.
+
+A filter bubble is the isolation that occurs when a website uses algorithms to selectively show a user what they would like to see based on information about them (such as location, past click behaviour and search history) and, as a result, users become separated from disagreeable and contradicting viewpoints, effectively isolating them in their own cultural or ideological bubbles.
+
+Filter bubbles are caused by the phenomenon called homophily (i.e. “love of the same”). Homophily has and still causes awfully apparent divides in society in the physical world (race, gender, sexuality etc.) already and now has done so with the internet (to a lesser degree some may argue). This was previously coined as cyberbalkanization [1] when referring to the segregation of the internet by groups of similar interests and characteristics. Through exploitation of homophily social media distorts users’ reality on those platforms, heavily impacting the information and data they take in and use to form attitudes, beliefs and opinions.
